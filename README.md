@@ -6,36 +6,37 @@ Results - Reduced the cncellation rate by 10% by implementing new strategy
 
 #Segregation of the views:
 
-## 1. Overall
+## 1) Overall
       - Ride Volume Over Time
       - Booking Status Breakdown
 
 ![Overview](https://github.com/user-attachments/assets/a0e62a58-224d-4ec5-81fb-0c45296d681b)
 
-## 2 Vehicle_Type
+## 2) Vehicle_Type
       -Top 5 Vehicle Types by Ride Distance
 ![Vehicle_type](https://github.com/user-attachments/assets/d3da6c77-1ce9-4e04-967d-03c4ecc8b466)
 
-## 3 Revenue
+## 3) Revenue
     - Revenue by Payment Method
     - Top 5 Customers by Total Booking Value
     - Ride Distance Distribution Per Day
 
 ![revenue](https://github.com/user-attachments/assets/adbad0fe-0200-4f2a-af8d-59d50a4496c6)
 
-## 4 Cancellation
+## 4) Cancellation
     -Cancelled Rides Reasons (Customer)
     -Cancelled Rides Reasons(Drivers)
 
 ![Cancellations](https://github.com/user-attachments/assets/75c423fd-80fb-4048-88fe-d2444d3f3439)
 
-## 5 Ratings
+## 5) Ratings
     - Driver Ratings
     - Customer Ratings
 
 ![Ratings](https://github.com/user-attachments/assets/2271ba97-ee47-4bc8-b396-38a8a30402fb)
 
-#Approach
+# Approach
+
 ## 1. Ride Volume Over Time: 
       A time-series chart showing the number of rides per day/week.
 ## 2. Booking Status Breakdown: 
