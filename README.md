@@ -10,7 +10,8 @@ Results - Reduced the cncellation rate by 10% by implementing new strategy
       - Ride Volume Over Time
       - Booking Status Breakdown
 
-![Overview](https://github.com/user-attachments/assets/a0e62a58-224d-4ec5-81fb-0c45296d681b)
+![image](https://github.com/user-attachments/assets/321596d8-39e3-4b15-a73b-9729ab2c8ca7)
+
 
 ## 2) Vehicle_Type
       -Top 5 Vehicle Types by Ride Distance
